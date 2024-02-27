@@ -1,6 +1,6 @@
 # JSON Dictionary Project
 
-This project is designed to provide a simple dictionary functionality using a JSON file as the ## data source.
+This project is designed to provide a simple dictionary functionality using a JSON file as the data source.
 
 ## Files
 
